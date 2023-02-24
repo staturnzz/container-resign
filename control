@@ -1,0 +1,9 @@
+Package: com.staturnz.containerresign
+Name: container-resign
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Resign binaries with no-container entitlements
+Maintainer: staturnz
+Author: staturnz
+Section: System
+Tag: role::hacker
